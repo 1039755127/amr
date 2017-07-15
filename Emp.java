@@ -1,6 +1,8 @@
-public class Hello
+public class Emp
 {
-	public static void main(String args[]){
-	System.out.println("Dept git");
-	}
+	private Integer empno;
+	private String ename;
+	private String job;
+
+
 }
