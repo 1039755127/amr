@@ -1,6 +1,7 @@
 public class Hello
 {
-	public static void main(String args[]){
-	System.out.println("Emp git");
-	}
+	private Integer Deptno;
+	private java.util.List allEmps;
+
+
 }
