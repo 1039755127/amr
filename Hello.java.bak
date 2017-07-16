@@ -11,6 +11,11 @@ public class Hello
 		System.out.println("jixian it ............");
 		System.out.println("jixian it ............");
 		System.out.println("jixian it ............");
+		System.out.println("jixian it ............1");		System.out.println("jixian it ............1");
+		System.out.println("jixian it ............1");
+		System.out.println("jixian it ............1");
+		System.out.println("jixian it ............1");
+		System.out.println("jixian it ............1");
 
 	}
 }
