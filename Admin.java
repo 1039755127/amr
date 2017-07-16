@@ -4,4 +4,6 @@ public class Admin implement Serializable
 {
 	private String aid;
 	private String password;
+	private Groups groups;
+
 }
