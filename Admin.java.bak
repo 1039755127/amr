@@ -4,6 +4,9 @@ public class Admin implement Serializable
 {
 	private String aid;
 	private String password;
+<<<<<<< HEAD
 	private List<Role> roles;
 
+=======
+>>>>>>> 9f8f961e2dd8222bccebdbc345bc51432eaf2f8c
 }
