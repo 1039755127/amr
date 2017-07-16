@@ -4,12 +4,8 @@ public class Hello
 	Runtime run=Runtime.getRuntime();
 	run.gc();//ÄÚ´æ·ÖÎö
 	System.out.println("Hello git");
-		System.out.println("Hello git");
-		System.out.println("Hello git");
-		System.out.println("jixian it ............");
-		System.out.println("jixian it ............");
-		System.out.println("jixian it ............");
-		System.out.println("jixian it ............");
+		System.out.println("Hello bug");
+	
 		
 	}
 }

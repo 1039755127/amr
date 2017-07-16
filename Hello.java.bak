@@ -5,17 +5,7 @@ public class Hello
 	run.gc();//ÄÚ´æ·ÖÎö
 	System.out.println("Hello git");
 		System.out.println("Hello git");
-		System.out.println("Hello git");
-		System.out.println("jixian it ............");
-		System.out.println("jixian it ............");
-		System.out.println("jixian it ............");
-		System.out.println("jixian it ............");
-		System.out.println("jixian it ............");
-		System.out.println("jixian it ............1");		System.out.println("jixian it ............1");
-		System.out.println("jixian it ............1");
-		System.out.println("jixian it ............1");
-		System.out.println("jixian it ............1");
-		System.out.println("jixian it ............1");
-
+	
+		
 	}
 }
